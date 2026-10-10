@@ -69,7 +69,7 @@ backend/
 
 ## Modèle de domaine
 
-![Modèle de domaine](docs/model-domain.png)
+![Modèle de domaine](docs/domain-model.png)
 
 ---
 
