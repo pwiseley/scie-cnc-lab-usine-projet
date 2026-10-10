@@ -8,6 +8,7 @@ Application web pour planifier le débit de panneaux sur une scie à commande nu
 - **Client :** Laboratoire Usine (LabUsine), Université Laval.
 - **Période :** septembre 2026 à décembre 2026.
 - **Mandat :** remplacer un processus de traçage manuel par un outil numérique permettant de dessiner un plan de coupe, de valider qu'il tient dans le panneau et la table de la machine, puis d'en exporter le G-code.
+- **Réalisation :** réalisé par `Petiton Wiseley` sous la supervision des professionnels de recherche du Lab Usine `Anthony Deschênes`, `Eloïse Prévôt`, et `Corantin Labelle`.
 
 ## Démo
 
